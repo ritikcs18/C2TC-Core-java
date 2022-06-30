@@ -1,0 +1,10 @@
+package TNS;
+
+public class hello_word {
+
+	public static void main(String[] args) {
+	System.out.println("helloword");
+
+	}
+
+}
